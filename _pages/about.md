@@ -12,8 +12,22 @@ I am a [University of Maryland](https://www.umd.edu/) student in the University 
 
 CV
 ======
-The plan is to insert my CV here
+<object data="http://mrafaykhan.github.io/Resume.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://mrafaykhan.github.io/Resume.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://mrafaykhan.github.io/Resume.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
+
+Qualifications
+======
+
+
+Strengths
+======
+
+Weaknesses
+======
 
 More about me
 ======
