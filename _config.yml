@@ -11,7 +11,7 @@ title                    : "Muhammad Rafay Khan / Website"
 title_separator          : "-"
 name                     : &name "Muhamad Rafay Khan"
 description              : &description "A junior Computer Science student at the University of Maryland"
-url                      : https://mrafaykhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mrafaykhan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mrafaykhan/mrafaykhan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Rafay Khan"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "Rafay.png"
+  bio              : "Junior Computer Science student with a minor in Business Analytics"
   location         : "Urbana, Maryland"
   employer         :
   pubmed           : 
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : 'https://www.linkedin.com/in/muhammadrafaykhan/'
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "https://twitter.com/RafayKhaaan"
