@@ -12,9 +12,9 @@ I am a [University of Maryland](https://www.umd.edu/) student in the University 
 
 CV
 ======
-<object data="http://mrafaykhan.github.io/Resume.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://mrafaykhan.github.io/Resume.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://mrafaykhan.github.io/Resume.pdf">Download PDF</a>.</p>
+<object data="http://mrafaykhan.github.io/files/Resume.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://mrafaykhan.github.io/files/Resume.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://mrafaykhan.github.io/files/Resume.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
