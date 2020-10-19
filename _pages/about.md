@@ -18,7 +18,7 @@ CV
     </embed>
 </object>
 
-! [Resume] (./images/Resume.jpg)
+![Resume](./images/Resume.jpg)
 
 Qualifications
 ======
