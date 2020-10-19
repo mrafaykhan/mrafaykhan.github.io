@@ -18,7 +18,7 @@ CV
     </embed>
 </object>
 
-![Resume] (images/Resume.jpg)
+! [Resume] (https://mrafaykhan.github.io/images/Resume.jpg)
 
 Qualifications
 ======
