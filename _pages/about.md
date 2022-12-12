@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Muhammad Rafay Khan but I prefer Rafay. I am a [University of Maryland](https://www.umd.edu/) student in the University Honors  [program](https://www.universityhonors.umd.edu/), as my program of choice at the Honors College. I am currently in school for a Bachelors degree in Computer Science, which with an estimated graduation time of either December 2021 or May 2022. I as well have a minor in Business Analytics in the Robert H. Smith business schoool! 
+Hi! My name is Muhammad Rafay Khan but my preferred name is Rafay. I am a Software Engineer at Epic Systems, and an alumni from the [University of Maryland](https://www.umd.edu/) with a major in Computer Science and a minor in Business Analytics. 
 
 CV
 ======
@@ -29,4 +29,4 @@ Weaknesses
 
 More about me
 ======
-Growing up I was always involved in computers and video games. Starting from when I was in middle school, I started to mod minecraft and tweak it, and even write scripts for Counter Strike: Global Offensive. This lead me to take coding classes in high school - which I excelled at and enjoyed immensely. Technology has always been an important part of my life. From something that helped me to grow as a person and get out of my shell to a tool that allows me to talk to my friends daily. Growing up as well I always wanted to make a difference, and knew technology was the way to go. I would love to work for a company who makes a positive impact in the world through their innovations. My end goal is to have a career and earn enough to then engage in philanthropy throughout the world and leave this Earth a better place.
+Growing up I was always involved in computers and video games. Starting from when I was in middle school, I started to mod minecraft and tweak it, and even write scripts for Counter Strike: Global Offensive. This lead me to take coding classes in high school - which I excelled at and enjoyed immensely. Technology has always been an important part of my life. From something that helped me to grow as a person and get out of my shell to a tool that allows me to talk to my friends daily. Growing up as well I always wanted to make a difference, and knew technology was the way to go. I would love to work for a company who makes a positive impact in the world through their innovations. My end goal is to have a career and earn enough to then engage in philanthropy throughout the world and leave this Earth a better place than it was before.
