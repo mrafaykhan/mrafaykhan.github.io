@@ -19,13 +19,13 @@ Or you can look at my resume in PDF form [here](https://mrafaykhan.github.io/fil
 
 Strengths
 ======
-* __Team worker__ - I am very understanding and co-operative when working in team and partner settings. I understand that sometimes things may come up and I may need to pick up some of their slack.
-* __Patient__ - I am as well patient in team settings and other settings. I can help someone understand a problem or solution thoroughly and waiting for them to understand clearly no matter how long. I picked up this skill from tutoring peers in math during high school. 
-* __Quick learner__ - I am quick to pickup any tasks or skills that come my way. Usually not leaving the topic until I have have a thorough knowledge of the topic at hand. 
+* __Team worker__ - I am very understanding and co-operative when working in team and partner settings. I understand that sometimes things may come up and I may need to pick up some of their slack. I as well aim to create create a warm environment where me and my coworkers are friends and can talk through issues we find without any aggression and only with smiles and compassion.
+* __Patient__ - I believe that patience is an imporant skill to have in team, and in any life setting as well. I can help someone understand a problem or solution thoroughly and wait for them to understand clearly no matter how long it would take or how many re-explanations there would need to be. I understand that everyone learns differently and sometimes we all need different amounts of time to understand different things. I fortunately picked up this skill from tutoring peers and underclassmen in math and programming during high school and college. 
+* __Quick learner__ - I am quick to pickup any tasks or skills that come my way. Usually not leaving the topic until I have have a thorough knowledge of the topic at hand. I have always loved learning and will not stop until I have a deep enough understanding on the topic. I love to figure out why some things work and other do not. And as well the best way to learn is to ask questions about what you do not understand as well as simply making mistakes and learning from them.
 
 Weaknesses
 ======
-* __Initiative__ - Sometimes when I finish the task at hand. I struggle to find another item or job to do. However, when I am given a bunch of work or objectives to complete, I complete them to the end and then some. It is hard for me to find that initiative to start something completely new
+* __Tunnel Vision__ - When accomplishing the task at hand, I get tunnel vision into what I am fixing or implementing, I never take a step back and look at the project as a whole. I get so caught up in my work I tend to forget to take a step back, and think is there a better way to fix this or why this is happening in the first place.
 
 More about me
 ======
